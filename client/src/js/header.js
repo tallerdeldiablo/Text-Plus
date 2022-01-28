@@ -1,16 +1,16 @@
 const header = `
 /*
        _____  ____________
-       ____     ___
-       |   \   |		|
-       |    \  |		|
-       |     \ |		|
-       |      \|		|
-       |      
-       |       |		|
-       |       |		|
-       |       |		| 
-Note text editor
+       ____     ____
+       |   \   |    |
+       |    \  |    |
+       |     \ |    |
+       |      \|    |
+       |            |
+       |   |\  |    |
+       |   | \ |    |
+       |___|  \|____| n
+Note text editor https://guarded-peak-03938.herokuapp.com/
 */                          
 `;
 
