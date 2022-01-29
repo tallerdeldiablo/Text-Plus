@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Contact Cards",
+  "name": "Note Plus",
   "short_name": "Contact",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "/",
-  "description": "Never forget your contacts!",
+  "description": "Note note note!",
   "background_color": "#225ca3",
   "theme_color": "#225ca3"
 }
